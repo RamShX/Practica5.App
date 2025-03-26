@@ -38,7 +38,7 @@ namespace Practica5.Gui
                     continue;
                 }
 
-                //Le haré un factory cuando tenga tiempo en la noche en casa C:
+                //Le haré un factory cuando tenga tiempo en la noche en mi casa C: mi github para ver la actualización final https://github.com/RamShX/Practica5.App
                 ContextFormato conversor = null;
                 switch (opcion)
                 {
